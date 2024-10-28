@@ -1,6 +1,6 @@
 E-Ticaret Veri Analizi ve Görselleştirme projesi, bir çevrimiçi perakende veri setini kullanarak, satış performansını analiz etmeyi ve görselleştirmeyi 
 amaçlayan kapsamlı bir veri analizi uygulamasıdır. 
-Proje, hem veri temizleme hem de görselleştirme teknikleri kullanarak kullanıcıların e-ticaret verilerinden değerli içgörüler elde etmelerine olanak tanır.
+Proje, hem veri temizleme hem de görselleştirme teknikleri kullanarak kullanıcıların e-ticaret verilerinden bilgi elde etmelerine olanak tanır.
 
 
 Kullanılan Teknolojiler:
